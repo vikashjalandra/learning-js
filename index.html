@@ -10,9 +10,17 @@
     <div class="bg-black">
         <h1 class="heading">DOM Learning</h1>
         <p>Lorem ipsum dolor sit amet.</p>
+        <button id="close" onclick="closeWindow()">Close</button>
     </div>
 
 
+    <script>
+        let close = document.getElementById('close')
+        function closeWindow() {
+            console.log('Hello World')
+            this.close()
+        }
+    </script>
     <script src="./script.js"></script>
 </body>
 </html>
