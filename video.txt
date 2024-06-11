@@ -2,3 +2,7 @@
 2. Datatypes
 3. Conversion
 4. Comparison
+
+script = Welcome to the day 1 of 100 days of code. is challenge ko me javascript ke sath start krne vala hu. 
+and abhi kuch dino tk me javascript ka revison kr rha hu. ab tk mene JS me Variables, Datatypes, conversion and Comparison ko revise kr liya h
+and aaj mene sikha how memory works in javascript, sath hi mene stack and heap memory allocation revise kiya. and I think aaj ke liye itna bot h, stay connected in this journy, see you tomorrow 

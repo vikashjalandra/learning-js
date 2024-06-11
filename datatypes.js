@@ -41,7 +41,7 @@ const anotherId = Symbol('123')
 
 const bigNumber = 333333333333333333333333333555555556n
 
-console.log(id==anotherId);
+// console.log(id==anotherId);
 
 
 //  2. Reference (Non Primitive)
@@ -58,4 +58,29 @@ const func = function(){
     console.log('Hello World');
 }
 
-console.log(typeof func);
+// console.log(typeof func);
+
+
+//**************** Memory **************
+
+// Stack(Used in Primitive), Heap(Used in Non Primitive)
+
+let myYoutubeName="Vikash Kumawat"
+
+let anotheName = myYoutubeName
+anotheName="Vikash Jalandra"
+
+console.log(myYoutubeName);
+console.log(anotheName);
+
+let userOne={
+    email:"a@b.c",
+    upi:"user@ybl"
+}
+
+let userTwo=userOne
+
+userTwo.email='vikash@gmail.com'
+
+console.log(userOne.email);
+console.log(userTwo.email);
