@@ -8,3 +8,4 @@
 8. date 
 9. array
 10. object
+11. function
