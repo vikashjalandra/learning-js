@@ -9,3 +9,4 @@
 9. array
 10. object
 11. function
+12. scope
