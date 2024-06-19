@@ -1,12 +1,15 @@
-1. Variables
-2. Datatypes
-3. Conversion
-4. Comparison
-5. JS Working
-6. string
-7. number & math
-8. date 
-9. array
-10. object
-11. function
-12. scope
+Variables
+Datatypes
+Conversion
+Comparison
+JS Working
+string
+number & math
+date 
+array
+object
+function
+scope
+JS Working
+Control Flow(if-else)
+Switch Case
