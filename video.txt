@@ -13,3 +13,4 @@ scope
 JS Working
 Control Flow(if-else)
 Switch Case
+Loops
