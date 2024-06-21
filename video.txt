@@ -11,6 +11,7 @@ object
 function
 scope
 JS Working
-Control Flow(if-else)
+Control Flow(if-else), truthy
 Switch Case
 Loops
+Map
