@@ -1,7 +1,4 @@
 let randomNumber = parseInt(Math.random()*100 +1)
-console.log(randomNumber);
-
-console.log("hello");
 
 const form = document.querySelector('form')
 const submit = document.querySelector('#subt')
@@ -22,7 +19,6 @@ if (playGame) {
     submit.addEventListener('click',(e)=>{
         e.preventDefault();
         let guess =parseInt(userInput.value)
-        console.log(guess)
         validateGuess(guess)
     })
 }
@@ -92,7 +88,6 @@ function newGame() {
         remaining.innerHTML =`${11-numGuess}`
         userInput.removeAttribute('disabled')
         startOver.removeChild(p)
-        
         playGame=true
     })
 }
