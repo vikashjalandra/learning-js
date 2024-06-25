@@ -15,3 +15,11 @@ Control Flow(if-else), truthy
 Switch Case
 Loops
 Map
+DOM
+Events
+Async
+Promise
+Fetch
+OOPs
+
+Important Topics - Fetch, Async, Promise,
