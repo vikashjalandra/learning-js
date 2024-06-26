@@ -22,4 +22,4 @@ Promise
 Fetch
 OOPs
 
-Important Topics - Fetch, Async, Promise,
+Important Topics - Fetch, Async, Promise, OOPs 
